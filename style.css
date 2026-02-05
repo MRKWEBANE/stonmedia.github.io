@@ -483,6 +483,7 @@ button {
 
   /* Navbar */
   .navbar {
+    padding-top: 50px;
     padding: 15px 25px;
   }
 
@@ -728,5 +729,6 @@ button {
     top: 0;
   }
 }
+
 
 
