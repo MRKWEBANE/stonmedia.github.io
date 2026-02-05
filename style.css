@@ -484,10 +484,11 @@ button {
   /* Navbar */
   .navbar {
   
-
+Padding: 15px 25px;
   }
 
   .navbar h1 {
+    Margin: 15px 25px; 
     font-size: 1.4rem;
   }
 
@@ -729,6 +730,7 @@ button {
     top: 0;
   }
 }
+
 
 
 
